@@ -1,0 +1,2 @@
+# my-idlerc
+mon .idlerc
